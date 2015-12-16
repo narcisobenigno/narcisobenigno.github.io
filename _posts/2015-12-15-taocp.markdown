@@ -13,7 +13,7 @@ Bom, a primeira coisa que você começa a ouvir quando vai fazer algo do tipo é
 ansia de entender o motivo pelo qual este livro é tão aclamado, eu resolvi
 enfrenta-lo.
 
-Vou fazer um esforço para colocar quando necessário fórmulas e de preferência
+Vou fazer um esforço para colocar, quando necessário, fórmulas e de preferência
 com uma formatação descente como abaixo:
 
 $$ \mathbf{X}\_{n,p} = \mathbf{A}\_{n,k} \mathbf{B}\_{k,p} $$
