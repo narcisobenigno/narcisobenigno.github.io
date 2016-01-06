@@ -2,7 +2,7 @@
 layout: post
 title:  "The art of computer programming - Início de uma saga"
 date:   2015-12-15 01:07:02 -0200
-categories: knuth algorithms
+categories: taocp
 ---
 
 Este post dá inicio a uma pretenciosa saga que é ler a série "The Art of
