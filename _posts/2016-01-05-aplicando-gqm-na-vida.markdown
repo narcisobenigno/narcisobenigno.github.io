@@ -155,6 +155,11 @@ isto será o suficiente até que se prove o contrário.
 Agora é trabalhar para atingir estes objetivos, enviem feedbacks e torçam por
 mim!
 
+## Agradecimentos
+
+Pelas revisões agradeço [Leonardo Campos](https://github.com/leonardocampos) e o
+[Deivid Martins](https://github.com/dcmdeivid)
+
 ## Referencias
 
 1. [THE GOAL QUESTION METRIC APPROACH](http://www.cs.umd.edu/~mvz/handouts/gqm.pdf)
