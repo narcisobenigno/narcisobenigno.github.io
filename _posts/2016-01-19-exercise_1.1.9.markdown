@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "TAOCP: Exercicio 1.1.9"
+date:   2015-12-15 01:07:02 -0200
+categories: taocp
+---
+
+Achando estranho eu fazer um post sobre um exercício em específico? Bom a
+motivação é que não consegui resolve-lo e não encontrei um post sobre o assunto
+em inglês e nem em português:
+
+A pergunta: C2 (ajustar nomenclatura com latex) representa C1?
+
+O que precisamos????
+
+(Fazer isto intercalando com o enunciado)
+
+Para dois  métodos computacionais C1=(Q1, I1, \Omega1, f1) e
+C2=(Q2, I2, \Omega2, f2) serem equivalentes precisamos que dados as diferenças
+listadas pelo Doutor Knuth precisamos de algo que mapeie qualquer x1 pertencente
+a I1 (entradas) para qualquer x2 pertencente a I2, além de qualquer item
+pertencente a Q2 ser mapeado para Q1 (que contém tudo) o que ele traduz como:
+
+Uma função *g* de ***I1*** -> ***I2***
+Uma função *h* de ***Q2*** -> ***Q1***
+E por fim uma função *j* (esta é vai se explicar mais tarde, não é muito
+trivial de entendê-la inicialmente - misturar aqui o enunciado destacando a
+diferença de mais passos posta pelo doutor Knuth), de ***Q2*** para um inteiro
+positivo
+
+Dada as funções acima, o Doutor Knuth cria definições usando-as para definir
+fatos que precisam ser verdades, para que efetivamente C2 seja uma representação
+de C1.
+
+> a) If *x* is in *I1* then h(g(x)) = x
+
+Se esta condição é satisfeita, significa que dado um valor *x* qualquer
+pertecente a  *I1* e transformando ele para *I2* e depois transformando ele de
+*Q2* para *Q1* (lembrando que *I* é um subconjunto do conjunto *Q* na definição
+de método computacional - colocar o link do meu post) obteriamos o mesmo *x*
+considerando a hipótese de que se *C2* é uma representação de *C1* de fato não
+deveria haver diferença.
+
+> b) If *q* is in *Q2* then f1(h(q)) = h(f2[j\(q\)](q)), where f2[j\(q\)](q)
+> means that the function f2 is to be iterated j(q) times.
+
+Para entender melhor um pouco desta condição precisamos relembrar um trecho do
+enunciado
+
+> This is to mean intuitively that any computation sequence of C1 is mimicked by
+> C2, except that C2 might take more steps in which to do the computation and it
+> might retain more information in its state. (carece tradução para ser mais
+> acessível)
+
+O que basicamente o Doutor Knuth quis dizer é que se pegarmos a função definida
+por C1, aplicarmos ela sobre um estado da computação de C2 (Q2) transformando-o
+para o domínio de *Q1* teriamos o estado da computação identico ao se aplicar a
+função definida por *Q2* tantas vezes necessária dada a diferença dos passos
+adicionais, representada por *j\(q\)*, para um possível implementação como
+disposto do trecho do enunciado. Desta forma teríamos mais uma base para afirmar
+a veracidade da afirmativa de que *"C1 representa C2"*
+
+E para finalizar a base da prova temos a seguinte condição:
+
+> If *q* is in *Q2* then *h(q)* is in \Omega1 if and only if *q* is in \Omega2
+
+Esta condição deixa claro que cada saída \Omega2 da implementação *C2* deve
+produzir uma saída correspondente em \Omega1.
