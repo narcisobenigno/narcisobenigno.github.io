@@ -66,3 +66,6 @@ E para finalizar a base da prova temos a seguinte condição:
 
 Esta condição deixa claro que cada saída \Omega2 da implementação *C2* deve
 produzir uma saída correspondente em \Omega1.
+
+Neste ponto tudo o que precisamos fazer é construir uma formulação que moste que
+as afirmativas são tangiveis
