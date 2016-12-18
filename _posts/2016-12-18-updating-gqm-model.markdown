@@ -21,6 +21,10 @@ crucial conversations - now it is time to share it and learn more and more.
 
 ## GQM
 
+### Regarding algorithms
+
+GQM Levels                  | Descriptions
+----------------------------|--------------------------------------------------------------
 Goal      Purpose           | Learn and apply algorithms
           Issue             | Helping solve complex problems
           Object (learning) | using Algorithms 
@@ -53,7 +57,10 @@ Metric                      | Understand deeply until the end of January 17th wh
                             | to mensure that is have a catchup with my sponsor (or
                             | someone else) showing the output of this research
 
+### Regarding communication
 
+GQM Levels                  | Descriptions
+----------------------------|--------------------------------------------------------------
 Goal      Purpose           | Learn more and share communication skills
           Issue             | Creating a safer environment and improve consulting skills
           Object (sharing)  | throughtout communication
