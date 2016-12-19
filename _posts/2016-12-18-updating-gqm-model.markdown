@@ -3,10 +3,10 @@ layout: post
 title:  "Updating GQM personal model"
 date:   2016-12-18 23:16:48 +0530
 comments: true
-categories: aprendizados gqm personal life
+categories: personal 
 ---
 
-# My personal GQM (Goal Question Metric) 
+# My personal GQM
 
 ## Subject
 
