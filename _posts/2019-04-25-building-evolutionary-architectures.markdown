@@ -8,8 +8,8 @@ categories: learning
 
 ## Disclaimer
 
-This is not meant a fully comprehensive text and I neither review it. Although,
-I will try to keep it as understandable as possible for later recall.
+This is not meant to be a fully comprehensive text and I wont review it either.
+Even then, I will try to keep it as understandable as possible for later recall.
 
 ## About the book
 
@@ -26,14 +26,14 @@ Not yet
 * Meet the balance among all **-ilities**: scalability, testability, resilience, …
 
 ## Evolutionary Architecture:
-Change software overtime becomes hard despite our efforts. So, Evolutionary
+Change software overtime becomes hard despite our best efforts. So, Evolutionary
 Architecture has to allow software **evolvability** in face of constant changes
 that a software needs to support.
 
 * When we look overtime the only thing that we know is that the things gonna
 change.
 
-* The current status quo think about architecture as something hard to change.
+* The current status quo thinks about architecture as something hard to change.
 Which becomes a self-fulfilling prophecy.
 
 ### Prevents it from Gradually Degrading Over Time:
