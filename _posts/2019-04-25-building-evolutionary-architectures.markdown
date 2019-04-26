@@ -8,10 +8,8 @@ categories: learning
 
 ## Disclaimer
 
-This is not meant a fully comprehensive text. Although I will try to keep it as
-understandable as possible for later recall.
-
-Also, my English is in constant development. Therefore, do not expect too much.
+This is not meant a fully comprehensive text and I neither review it. Although,
+I will try to keep it as understandable as possible for later recall.
 
 ## About the book
 
