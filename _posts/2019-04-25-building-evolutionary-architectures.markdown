@@ -15,7 +15,7 @@ Even then, I will try to keep it as understandable as possible for later recall.
 
 It is the first edition released 2017-09-15
 
-## Annoying things through the book
+## Annoying things through out the book
 
 The authors keeps saying "the architect can evaluate...", "the architect
 defines"... Why not just say "the product team..."?
@@ -130,3 +130,13 @@ Evolutionary architecture primary aspects: incremental change, fitness functions
     * they needs to be reviewed in scale or magnitude.
     * there are better approaches to measure what the current ones
     * The systems needs new fitness function.
+
+## Chapter 3: Engeneering Incremental Change
+
+  > an evolutionary architecture supports guided, *incremental* change across
+  > multiple dimensions.
+  > > -authors definition
+
+  * Fitness function has to do with that *incremental* part. So, it put design
+    practices in place to make the software evolvable, i.e., evolutionary
+    architecture should allow changes to software in small increments.
