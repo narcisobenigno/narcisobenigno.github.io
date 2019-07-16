@@ -13,7 +13,7 @@ categories: learning
 
 Monoids are this that are:
 
-* Binary operations;
+* Binary **operations**;
 * All values and return of this operation have the same type;
 * Respect associative property;
 * Has a neutral element;
