@@ -63,7 +63,7 @@ troca de produtos, uma relação quantitativa.
 > tipo, uma relação que se altera constantemente no tepo e no espaço. Ele
 > parece, assim, ser algo acidental e puramente relativo e, ao mesmo tempo, um
 > valor de troca intríseco, imanente à mercadoria; logo, uma *contradictio in
-> adjecto* [contradição nos próprios termos]. [pag. 114, para. 3]
+> adjecto* [contradição nos próprios termos]. **[pag. 114, para. 3]**
 
 Desta forma, como elas se trocam em proporções específicas, podermos expressar a
 troca entre mercadorias em uma expressão do tipo x de uma mercadoria A = y de
@@ -71,11 +71,11 @@ uma mercadoria B. Como as mercadorias A e B são qualitativamente diferentes,
 para estas serem igualadas desta forma, requer-se que elas tenham algum tipo de
 **substância em comum**. [pag. 115. para. 2]
 
-Nada fisico nas mercadorias que compões fisicamente uma mercadoria pode ser
-considerado como a **substância de igualdade**. Elas são suporte apenas do valor
-de uso dado que são suporte desta. Mesmo que os materiais que compuseram as
-diferentes mercadorias fossem o mesmos, ainda sim seriam com fim e proporções
-diferentes para dar o suporte distinto que é necessário para diferencia-las.
+Nada fisico nas mercadorias que ás compões pode ser considerado como a
+**substância de igualdade**. Elas são suporte apenas do valor de uso dado que
+são suporte desta. Mesmo que os materiais que compuseram as diferentes
+mercadorias fossem o mesmos, ainda sim seriam com fim e proporções diferentes
+para dar o suporte distinto que é necessário para diferencia-las.
 
 De toda forma, parece que o que justamente caracteriza o valor de troca é que
 temos que, na verdade, abstrair os valores de uso. Como qualitativamente
@@ -83,4 +83,5 @@ diferentes, valores de uso definitivamente não podem ser igualados e portanto
 não há nada em comum entre as mercadorias.
 
 > Abstraindo os valores de uso dos corpos-mercadorias, resta nelas uma única
-> propriedade: a de serem produtos de trabalho humano. [pag. 116, para 2]
+> propriedade: a de serem produtos de trabalho humano. **[pag. 116, para. 2]**
+
