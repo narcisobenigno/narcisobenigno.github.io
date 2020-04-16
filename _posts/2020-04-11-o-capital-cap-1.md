@@ -15,13 +15,10 @@ O capital: crítica da economia politica
 
 2a edição, 2a reimpressão. Editora boitempo.
 
-## Items abordados e pontos revisitar
+## Próximos Items a serem abordados e pontos revisitar
 
-. duplo carater da percadoria: Valor de uso e valor de troca
-. ?Como o Marx transiciona de falar do valor de troca/valor de uso para apenas o
-valor de troca e valor?
 . O carater duplo do trabalho
-. Forma de valor ou valor ou o valor de troca
+. Forma de valor ou o valor de troca
 . Carater feitichista da mercadoria
 
 ## Resumo do item 1
