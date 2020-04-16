@@ -17,9 +17,9 @@ O capital: crítica da economia politica
 
 ## Próximos Items a serem abordados e pontos revisitar
 
-. O carater duplo do trabalho
-. Forma de valor ou o valor de troca
-. Carater feitichista da mercadoria
+* O carater duplo do trabalho
+* Forma de valor ou o valor de troca
+* Carater feitichista da mercadoria
 
 ## Resumo do item 1
 
