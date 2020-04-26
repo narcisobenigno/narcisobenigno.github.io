@@ -108,3 +108,53 @@ quem compra vai preferir o produto de menor valor. O que reduz pressiona o valor
 de todas as mercadorias. Então, a grandeza de valor é definido pela quantidade
 de trabalho, socialmente necessário, isto é, entre todos os agentes envolvidos
 no processo de produção. **[pag.  116-17]**
+
+## Resumo Item 2
+
+Exemplo base: V linho = 2V casaco
+
+As diferentes mercadorias são qualitativamente diferentes assim como os
+trabalhos que às produz - tecelagem e alfaiataria. **[pag. 119. para. 5]**
+
+Esta diferenciação é condição para que as mercadorias se troquem. Afinal, não
+faz sentido trocar coisas com valores de uso identicas, tem de haver um
+diferenciação para a troca.
+
+O trabalho produtor de valores de uso é uma necessidade humana, desde que o
+humano é humano faz coisa para suprir suas necessidades - roupas, música e etc.
+**[pag. 129, para. 3]**.
+
+Isto é, o valor de uso de uma mercadoria, o corpo dela, é produto de duas
+coisas: o trabalho e a natureza. De onde podemos afirmar que se subtrairmos
+todos os trabalhos úteis de uma mercadoria o que sobra é a natureza.
+
+Agora, ao analizarmos os valores das mercadorias, em nossa suposição de o valor
+de linho ser metade do valor do casaco, significa dizer que as duas coisas são
+de **igual substância**. Caso contrário, não haveria como igualarmas em uma
+expressão. Ora, sabemos da análise do valor de uso e do trabalho que o produz,
+que, tanto os trabalhos, quanto os valores de uso são qualitativamente
+diferentes. Também, sabemos que esta é uma necessidade das mercadorias, já que
+não há nexo em trocar coisas com valores de uso idênticos.
+
+Portanto, o que há de comum não pode ser o trabalho útil destas coisas. Então,
+precisamos abstrair este trabalho útil para encontrarmos a substância em comum
+destas diferentes mercadorias. O que há de comum entre estes dois trabalhos é
+que estes são dispêndio de forca, cérebro e musculos humanos. O valor da
+mercadoria representa somente o trabalho humano. **[Pag. 122. Para. 1]**
+
+Bem como nos valores casaco e linho estão abstraídos os valores de uso, da mesma
+forma nos trabalhos representados nestes valores estão abstraídos suas
+diferenças qualitativas.
+
+A quantidade de trabalho - medido em tempo como dissemos no item anterior - mede
+nada mais a **grandeza do valor** contido nelas.
+
+A riquesa material - o que entendi como quantidade de valor de uso **[pag. 123,
+para. 4]** - é inversamente proporcional ao valor produzido em um aumento da
+força de trabalho: se fazemos dois casacos no tempo que faziamos um, vestimos
+duas pessoas, porém, o valor cai pela metade.
+
+[Nota de rodapé 16 ele pontua como o Adam Smith, que se por um lado reconhece
+que o trabalho humano como produtor do valor, isto é, o dispêndio energia,
+cérebro e musculos humanos que produ, por outro esbarra colocando isto como uma
+forma geral histórica não reconhecendo o trabalho como produtor de valor de uso]
