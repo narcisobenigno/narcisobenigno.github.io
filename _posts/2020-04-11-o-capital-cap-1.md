@@ -2,7 +2,7 @@
 layout: post
 title:  "O Capital: A mercadoria"
 date:   2020-04-11 04:47:33 +1000
-last_update:   2020-04-22 23:26:33 +1000
+last_update:   2020-04-30 23:10:33 +1000
 comments: true
 categories: learning
 ---
@@ -158,3 +158,30 @@ duas pessoas, porém, o valor cai pela metade.
 que o trabalho humano como produtor do valor, isto é, o dispêndio energia,
 cérebro e musculos humanos que produ, por outro esbarra colocando isto como uma
 forma geral histórica não reconhecendo o trabalho como produtor de valor de uso]
+
+## Item 3
+
+A mercadoria é algo que não pode ser absolutamente racionalisavel como valor
+quando olhamos apenas para o corpo dela. Então, a mercadoria só é mercadoria por
+possuir os dois aspectos já discutidos até aqui: é um valor de uso e um suporte
+de valor.
+
+> A objetividade de seu valor [a mercadoria] não está contido um único átomo de
+> materia natural. [pag. 125, para. 1].
+
+Aqui a idéia é extrair de onde o dinheiro, por assim dizer, "brota" como uma
+necessidade de existência no capitalismo.
+
+Para tal tarefa, precisamos remontar este processo que leva ao dinheiro. As
+mercadorias possuem esta forma de valor comum entre todas elas, chamada
+dinheiro. Porém, para descubrir esta gênesi, precisamos olhar para fomas de
+valor que precedem a forma dinheiro - não necessariamente histórica, apesar de
+ser possível também análisar estes aspéctos. Esta forma básica de valor é a
+troca de duas mercadorias com valores de usos diferentes entre si.
+
+### A: A forma de valor simples, individual ou **ocasional**
+
+> x mercadorias A = y mercadorias B, ou: x mercadorias A têm o valor de y
+> mercadorias B. [pag. 125.]
+
+#### 1: os dois polos da expressão de valor: forma de valor relative e forma de valor equivalente
