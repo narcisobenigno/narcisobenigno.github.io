@@ -199,16 +199,17 @@ vem da oferta/demanda?] **[pag. 126, para. 2]**
 
 ## Notas Gerais
 
-. Newton está para Ricardo, assim como Einstein est´para Marx.  Newton consegue
+. Newton está para Ricardo, assim como Einstein está para Marx.  Newton consegue
 medir como a gravidade age sobre os corpos, mas não consegue saber como a
 gravidade acontece. Já Ricardo - e todos os outros economistas politicos -
-conseguem até ver o valor, mas não consegue ver como o valor acontece, ou mesmo
-descrever como uma forma universal de valor acontece. Por sua vez, Einstein
-descreve como a gravidade acontece com sua elegantissima teoria da relatividade,
-e Marx com sua teoria do valor junto com o descrição do desenvolvimento da forma
-dinheiro - e tudo mais. Marx tbm bota sob o escrutínio histórico estes
-conceitos como, por exemplo, se pergutando pq o valor é como é? Sendo este só
-possível uma uma sociedade de produtores de mercadoria.
+conseguem até ver a forma valor manifestada nas trocas como medida através do
+tempo de trabalho, mas não consegue ver como o valor existe, e as diferentes
+naturezas dos trabalhos envolvidos nesta produção do valor. Por sua vez,
+Einstein descreve como a gravidade acontece com sua elegantissima teoria da
+relatividade, e Marx com sua teoria do valor junto com o descrição do
+desenvolvimento da forma dinheiro - e tudo mais. Marx tbm bota sob o escrutínio
+histórico estes conceitos como, por exemplo, se pergutando pq o valor é como é?
+Sendo este só possível uma uma sociedade de produtores de mercadoria.
 
 ## Hipótesis a validar
 
