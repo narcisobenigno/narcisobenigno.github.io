@@ -184,4 +184,34 @@ troca de duas mercadorias com valores de usos diferentes entre si.
 > x mercadorias A = y mercadorias B, ou: x mercadorias A têm o valor de y
 > mercadorias B. [pag. 125.]
 
-#### 1: os dois polos da expressão de valor: forma de valor relative e forma de valor equivalente
+#### 1: os dois polos da expressão de valor: forma de valor relativa e forma de valor equivalente
+
+Mercadorias A e B desempenham uma valor distinto. **A** é a forma relativa, quanto
+**B** é a forma equivalente. A mercadoria **A** expressa seu valor em **B**,
+euqnato **B** server apenas como esta coisa que server para medir o valor de
+**A**.
+
+Esta expressão não pode ser entre duas mercadorias identias, por exemplo: 2
+latas de coca = 2 latas de coca. Isto seria uma bom exemplo de tautología. Isto
+é, uma mercadoria só pode expressar seu valor pela relação com uma mercadoria
+diferente [Seria isto a origem de alguns "economistas" entenderem que o valor
+vem da oferta/demanda?] **[pag. 126, para. 2]**
+
+## Notas Gerais
+
+. Newton está para Ricardo, assim como Einstein est´para Marx.  Newton consegue
+medir como a gravidade age sobre os corpos, mas não consegue saber como a
+gravidade acontece. Já Ricardo - e todos os outros economistas politicos -
+conseguem até ver o valor, mas não consegue ver como o valor acontece, ou mesmo
+descrever como uma forma universal de valor acontece. Por sua vez, Einstein
+descreve como a gravidade acontece com sua elegantissima teoria da relatividade,
+e Marx com sua teoria do valor junto com o descrição do desenvolvimento da forma
+dinheiro - e tudo mais. Marx tbm bota sob o escrutínio histórico estes
+conceitos como, por exemplo, se pergutando pq o valor é como é? Sendo este só
+possível uma uma sociedade de produtores de mercadoria.
+
+## Hipótesis a validar
+
+1. Só é possível solapar o padrão ouro dado que a circulação de mercadoria é tão
+   normalizado como forma histórica que passamos a ter uma "fé" de que a forma
+   dinheiro é algo totalmente independente -
