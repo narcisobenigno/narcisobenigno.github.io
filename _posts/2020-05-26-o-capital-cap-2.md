@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "O Capital: A mercadoria"
-date:   2020-04-11 04:47:33 +1000
-last_update:   2020-04-30 23:10:33 +1000
+title:  "O Capital: O processo de troca"
+date:   2020-05-26 23:10:33 +1000
+last_update:   2020-05-26 23:10:33 +1000
 comments: true
 categories: learning
 ---
