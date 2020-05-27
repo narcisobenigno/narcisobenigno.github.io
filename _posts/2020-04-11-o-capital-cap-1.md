@@ -211,6 +211,13 @@ desenvolvimento da forma dinheiro - e tudo mais. Marx tbm bota sob o escrutínio
 histórico estes conceitos como, por exemplo, se pergutando pq o valor é como é?
 Sendo este só possível uma uma sociedade de produtores de mercadoria.
 
+Esta diferença nestas teorias sublinha o fato de que para ver aspectos da
+"insanidade" do Capitalismos, é preciso entender a natureza do valor e,
+consequentemente, a diferença entre os trabalhos que produzem valor e valor de
+uso. Se você naturaliza o valor de troca, vc naturaliza uma forma histórica,
+parecendo que ela sempre existiu. Esto não permite tbm ver o processo alienante
+desta forma de produção de bens apenas para venda - mercadoria.
+
 ## Hipótesis a validar
 
 1. Só é possível solapar o padrão ouro dado que a circulação de mercadoria é tão
