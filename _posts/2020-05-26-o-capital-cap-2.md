@@ -20,6 +20,14 @@ O capital: crítica da economia politica
 Segue o Marx mostrado como funciona a circulação. Desde a simples troca de
 mercadorias na forma de valor simples, até são valores universais.
 
+Na troca simples, os possuidores de mercadoria se contram e suas vontades e
+necessidades só podem ser realizadas na mercadoria de outrem. Cada possuidor é
+nada mais que o representande sua sua própria mercadoria.
+
+(Nota *post festum*: a coisa neste capitulo começa de uma forma muito engraçada
+mais confusa, eu fui começar a sacar as coias lá pelo meio do capitulo, mas na
+segunda releitura muito rápida é fantastico ver como ele está desenvolvendo).
+
 A contradição excêncial na forma de valor simples é que o possuidor de
 mercadoria que tem o equivalente troca por uma outra mercadoria equivalente - a
 de quem está comprando - portanto, como esta forma de valor do artigo de troca
