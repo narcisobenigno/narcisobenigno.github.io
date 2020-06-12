@@ -36,11 +36,11 @@ trabalhadores de RH e as demais. Portanto, sem pedantismo intelectual, por mais
 que "pedantismo intelectual" soe como pedantismo intelectual. Até por que, não
 sou intelectual, apesar de pedante as vezes. Mas voltemos ao texto...
 
-Também não é o objetivo deste texto tentar criar um "RH melhor". A idéia aqui é
-rascunhar como estas tentativas de renomear Recursos humanos para qualquer
-outra coisa é inúntil e apenas cria falsas aparências de problemas altamente
-complexos. Além disto, não é um ataque a qualquer profissinal da área ou
-qualquer outra pessoa que seja adepta desta idéia. O meu entendimento é que a
+Também não é o objetivo deste texto tentar sugerir um "RH diferente". A idéia
+aqui é rascunhar como estas tentativas de renomear Recursos humanos para
+qualquer outra coisa é inúntil e apenas cria falsas aparências de problemas
+altamente complexos. Além disto, não é um ataque a qualquer profissinal da área
+ou qualquer outra pessoa que seja adepta desta idéia. O meu entendimento é que a
 crítica é parte do processo para entendermos nuances de nossa sociabilidade, que
 pode nos levar a redirecionar nossas energia para as questões corretas.
 
@@ -121,9 +121,9 @@ séculos, e não vou me atrever a entrar neste simples texto de blog.
 
 ### Conheço boas pessoas que trabalham com RH...
 
-Muita gente pode olhar este texto e pensar que eu estou fazend uma crítica moral
-a quem trabalha com recursos humanos. E, definitivamente, não é isto que quero
-dizer.
+Muita gente pode olhar este texto e pensar que eu estou fazendo uma crítica
+moral a quem trabalha com recursos humanos. E, definitivamente, não é isto que
+quero dizer.
 
 Evidentemente, existe várias pessoas que desejam fazer o melhor para as outras.
 Esta não é a questão.
@@ -136,7 +136,7 @@ qualquer que seja a atividade humana de trabalho?
 ### Conheço um caso que o RH insistiu muito em uma pessoa...
 
 Este é um desdobramento do item anterior. Novamente, podemos desenvolver
-atividades que amenizem as controdições, mas mesmo assim, ainda haverá a
+atividades que amenizem as contradições, mas mesmo assim, ainda haverá a
 alocação, substituição e dispensa de humanos.
 
 Muitas empresas são famosas por terem áreas de RH que tem abordagens que tentam
@@ -163,7 +163,7 @@ cicatriza.
 
 ## Conclusão
 
-Negar a crítica jamais dissovel a contradição. Se queremos dar um passo a diante
+Negar a crítica jamais dissove a contradição. Se queremos dar um passo a diante
 em criar um mundo melhor não podemos fechar o olho quando algum sintoma estranho
 aparece. Por isto, o caminho é olhar com curiosidade e explorar dentro destas
 questões que apurrinham o nosso juizo.
