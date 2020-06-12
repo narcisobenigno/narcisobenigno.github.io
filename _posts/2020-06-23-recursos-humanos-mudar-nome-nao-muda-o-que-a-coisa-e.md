@@ -23,7 +23,7 @@ Neste emaranhado de visões romanticas que nós, profissionais da industria de
 software, vivemos, parece tentador pensarmo que o RH em nossos trabalhos podem
 ser "resignificados" e "evoluidos". Nós frequentemente esquecemos que somos
 trabalhadores e qual é o nosso real propósito dentro das organizações para as
-quais vendemos nossas forças de trabalho.
+quais vendemos nossa força de trabalho.
 
 Ofereço esta análise como a de um simples trabalhador, e não de alguém que
 estudou ou se aprofundou em literatuda de recursos humanos. Então, entendo que
@@ -32,12 +32,12 @@ tensionadas neste texto. Por isto, deixo evidente aqui, que uma crítica mais
 profunda dependeria de uma leitura crítica e aprofundada de tais literaturas.
 Porém, isto não invalida os inúmeros *quid pro quo* em volta dos sintomas desta
 relação, altamente mediada por interesses antagonicos entre estes polos de
-trabalhadores de RH e as demais. Portanto, sem pedantismo intelectural, por mais
+trabalhadores de RH e as demais. Portanto, sem pedantismo intelectual, por mais
 que "pedantismo intelectual" soe como pedantismo intelectual. Até por que, não
 sou intelectual, apesar de pedante as vezes. Mas voltemos ao texto...
 
-Também não é o objetivo deste texto tentar de criar um "RH melhor". A idéia aqui
-é rascunhar como estas tentativas de renomear Recursos humanos para qualquer
+Também não é o objetivo deste texto tentar criar um "RH melhor". A idéia aqui é
+rascunhar como estas tentativas de renomear Recursos humanos para qualquer
 outra coisa é inúntil e apenas cria falsas aparências de problemas altamente
 complexos. Além disto, não é um ataque a qualquer profissinal da área ou
 qualquer outra pessoa que seja adepta desta idéia. O meu entendimento é que a
