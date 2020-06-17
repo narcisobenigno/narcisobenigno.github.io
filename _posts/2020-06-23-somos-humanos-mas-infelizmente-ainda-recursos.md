@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  "O nome recusos humanos! Crítica à tentativa de criar falsas aparências"
+title:  "Somo humanos mas, infelizmente, ainda recursos"
 date:   2020-06-12 21:24:33 +1000
 last_update:   2020-06-12 21:24:33 +1000
 comments: true
 categories: analise
 ---
 
-# O nome recusos humanos! Crítica à tentativa de criar falsas aparências
+# Somo humanos mas, infelizmente, ainda recursos
 
 Todo mundo vê, mas parece que queremos fechar os olhos. Em diversas empresas que
 passei existe uma tentativa de alterar o nome recursos humanos e não sem razão.
-Eu já estive dentro desta perspectiva, afinal, nenhum humano deveria ser tratado
-como recurso.
+Eu já defendi esta perspectiva, afinal, nenhum humano deveria ser tratado como
+um recurso.
 
 Faz tempo que penso nisto e já queria escrever sobre, porém um [twitt do Jim
 Weber](https://twitter.com/jimwebber/status/1271355017392504833) e as respostas
 me fez pensar que dificilmente se discute qual é o real motivo do desconforto.
-Ou mais, qual é o motivo de um RH existir?
+Ou mais, qual é o motivo de um RH existir.
 
 Neste emaranhado de visões romanticas que nós, profissionais da industria de
 software, vivemos, parece tentador pensarmo que o RH em nossos trabalhos podem
@@ -25,29 +25,32 @@ ser "resignificados" e "evoluidos". Nós frequentemente esquecemos que somos
 trabalhadores e qual é o nosso real propósito dentro das organizações para as
 quais vendemos nossa força de trabalho.
 
+## Mas antes de seguirmos, vamos limpar o terreno...
+
 Ofereço esta análise como a de um simples trabalhador, e não de alguém que
 estudou ou se aprofundou em literatuda de recursos humanos. Então, entendo que
 muita gente pode ter perspectivas muito peculiares destas literaturas que são
 tensionadas neste texto. Por isto, deixo evidente aqui, que uma crítica mais
-profunda dependeria de uma leitura crítica e aprofundada de tais literaturas.
+profunda dependeria de uma leitura crítica e rigorosa de tais literaturas.
 Porém, isto não invalida os inúmeros *quid pro quo* em volta dos sintomas desta
-relação, altamente mediada por interesses antagonicos entre estes polos de
+relação, altamente mediada por interesses antagonicos, entre estes polos de
 trabalhadores de RH e as demais. Portanto, sem pedantismo intelectual, por mais
 que "pedantismo intelectual" soe como pedantismo intelectual. Até por que, não
-sou intelectual, apesar de pedante as vezes. Mas voltemos ao texto...
+sou intelectual, apesar de pedante as vezes. Mas voltemos...
 
 Também não é o objetivo deste texto tentar sugerir um "RH diferente". A idéia
 aqui é rascunhar como estas tentativas de renomear Recursos humanos para
 qualquer outra coisa é inúntil e apenas cria falsas aparências de problemas
 altamente complexos. Além disto, não é um ataque a qualquer profissinal da área
-ou qualquer outra pessoa que seja adepta desta idéia. O meu entendimento é que a
-crítica é parte do processo para entendermos nuances de nossa sociabilidade, que
-pode nos levar a redirecionar nossas energia para as questões corretas.
+ou qualquer outra pessoa que guarde um apreço para com o que um RH se diz ser. O
+meu entendimento é que a crítica é parte do processo para entendermos nuances de
+nossa sociabilidade, que pode nos levar a redirecionar nossas energia para as
+questões corretas.
 
-Para fins didaticos, apesar das considerações anteriores sobre as limitações
-deste texto, vou me permitir usar uma linguagem direta na critica. Não por ter
-certezas imutáveis, mas por entender que isto facilita quem está lendo ver
-cristalinamente o que quero expressar.
+Por fim, para fins didaticos, apesar das considerações anteriores sobre as
+limitações deste texto, vou me permitir usar uma linguagem direta na critica.
+Não por ter certezas imutáveis, mas por entender que isto facilita quem está
+lendo ver cristalinamente o que quero expressar.
 
 Vamos começar de maneira "wikipedica" tentando definir o que Recurso humano
 significa e qual a necessidade historicamente situada de RH existir.
@@ -56,11 +59,11 @@ significa e qual a necessidade historicamente situada de RH existir.
 
 Recursos humanos é uma profissão, historicamente situada, que emergiu por
 diversas necessidades imanentes a nossa forma de produção, que não é algo que
-brotou da terra, mas é algo, também, situado historicamente. Afinal, imagina só,
-você chegando em uma produção feudal e tá lá a galera do RH e pedir seu espelho
-de pontos.
+brotou da terra, mas é algo, também, situado historicamente. Afinal, imagina só
+você chegando em uma produção feudal e tá lá a galera do RH te pedir seu espelho
+de pontos. Isto é o que uma galera chama de anacronismo.
 
-### Recursos
+### O que é um recursos?
 
 #### Recursos são dispensáveis e substituíveis
 
@@ -76,7 +79,7 @@ interagir com a natureza, pensar coisas magnificas e realiza-las. De comida
 nutrir nosso estomago, passando por artes que nutrem nossos sentimentos, até
 foguetes que nos levam muito além das nossas limitadas fronteiras fisícas.
 
-### A contradição se revela no nome
+### A contradição já começa no nome
 
 Até agora olhamos para recursos como coisas que podemos adicionar,
 potêncializar, substituir ou mesmo se desfazer. Já o humano é esta potência, que
