@@ -82,3 +82,67 @@ valor. Isto é tão impactante que pensamos que o dinheiro é algo tão natural
 quanto "a luz do dia". Parece que, naturalmente, os produtos do trabalho humano
 tem naturalmente valor, quando, na verdade, só através da forma mercadoria esta
 propriedade, por assim dizer, "brota".
+
+#### c) A moeda. O signo do valor
+
+**[1/198]** Moeda é o resultado do uso do dinheiro como meio de circulação.
+
+A fração de ouro, expresso no preço da mercadoria, tem que se apresentar perante
+a algo de mesmo nome. A moéda é expressão nacional do ouro, de forma que esta é
+definida como padrão de preço e impressa pelo estado na qual se situa.
+
+**[2/198]** Desgaste da moeda durante a circulação faz com que o valor nominal da
+moeda deixe de ser o valor de fato desta.
+
+Por isso, era necessário definir um nível aceitável de desgaste de uma moéda,
+antes que esta saia de circulação.
+
+**[3/199]** O descolamento do valor formal do valor real do metal ouro, permite a
+troca desse por outros metais, especialmente para valores divisionários.
+
+O valor infimo definido na relação ouro vs prata/cobre garante que o ouro não
+seja substituido completamente na cirtulação.
+
+Ora, seria isso que permite a gente, inclusíve, trocar por papel?
+
+**[4/200]** Valor da moéda se descola totalmente de sua substância de valor,
+dado que um maior desgate é permitido. Inclusive, agora podemos usar papel.
+
+uma coisa que não fica muito bem resolvida, é que quando era moéda metálica,
+ouro e seu valor divisionário entravam juntos no mercado. E agora com o papel
+moeda. Só consigo assumir que sim.
+
+**[5/200]** Reforço de papel moéda sendo algo compulsório e controlado pelo o
+Estado.
+
+Uma observação de que o dinheiro creditício que, assim como o papel moeda, era
+apenas uma consequência da função do dinheiro como meio de pagamento.
+
+**[6/201]** Não muito certo aqui, mas parece que ele está mostrando como o
+Estado ao emitir papel-moeda, sendo o Estado algo fora do processo da
+circulação, como este processo pode causar variações no preços.
+
+Isto é, se enche mais ou menos de moeda, por esta possiblidade de haver um
+descolamento entre valor da moeda e sua substância, afeta os preços neste
+mercado.
+
+Cabe mencionar aqui que esta troca é gerenciada por lei, a quantidade
+de ouro representanda por cada moeda em relação ao ouro.
+
+**[7/201]** Reforça que o papel-moeda não é nada mais que um *signo* do valor
+que esse representa em ouro/dinheiro. Não tem valor em si.
+
+É interessante que eu passo este capítulo inteiro pensando que boa parte da
+"riquesa" hoje em dia da burguesia é apenas fumaça com validade social. O
+dinheiro não tem valor absolutamente nenhum, só que aceitamos ele mesmo assim, e
+aceitamos que o grande volume acululado em forma de bits, basicamente, é algo
+realmente valido.
+
+**[8/202]** Marx tá fazendo uma pergunta pra gente se ligar desta coisa estranha
+que acontece: como assim eu troco o outro por algo que não tem valor
+absolutamente nenhum e continua tudo bem? - Estranhamento!!
+
+Só é possível, graças a autonomização entre valor do ouro e seu valor formal. O
+papel-moeda que entra na circulação é por excelência algo que existe para a
+circulação, ela não sai dai. Sua existência é exclusividade do processo M-D-M',
+isto é, servindo como meio.
