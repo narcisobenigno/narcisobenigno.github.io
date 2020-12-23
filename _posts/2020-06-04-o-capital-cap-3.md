@@ -146,3 +146,30 @@ Só é possível, graças a autonomização entre valor do ouro e seu valor form
 papel-moeda que entra na circulação é por excelência algo que existe para a
 circulação, ela não sai dai. Sua existência é exclusividade do processo M-D-M',
 isto é, servindo como meio.
+
+### 3. Dinheiro
+
+**[1/203]** Recaptula o que é o dinheiro, sendo este uma mercadoria que server como
+medida de valor - meramente ideal nos preços - e meio de circulação.
+
+A mercadoria-dinheiro só é dinheiro quando se apresenta em sua própria
+corporalidade (isto é, não é o seu signo de valor nem quando é medida de valor).
+Por outro lado, quando o dinheiro realiza sua função, nos fixamos apenas no seu
+valor de troca. Sendo o dinheiro na sua corporalidade ou através do seu signo
+torna-o um tanto indiferente.
+
+#### c) Entesouramento
+
+**[1/203]** Colocar o entesouramento a interrupção do continuo processo antitético
+de compra e venda no fluxo do dinheiro.
+
+**[2/203]** O dinheiro deixade ser mero meio de circulação e se torna um fim em
+si mesmo, deixa de ser uma alienável em absoluto.
+
+**[3/204]** Fatos históricos sobre entesouramento: como nos estágios iniciais da
+circulação apenas o excedente é comercializado o ouro e prata são simbolos de
+riqueza e superfluidade.
+
+Nesse nível, a produção é por subexistência, a produção é tradicional - o que
+imagino que ele quer dizer é que é bastante artesanal, sem grande industria - um
+circulo rigido de necessidades.
