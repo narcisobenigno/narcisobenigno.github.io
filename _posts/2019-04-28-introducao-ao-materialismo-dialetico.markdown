@@ -52,17 +52,17 @@ ele chama de filosofia até um possível visão religiosa.
 
 #### O materialismo dialético em seu desenvolvimento histórico
 
-[1/3] Quais seriam as possiblidades para uma introdução ao materialismo
+**[1/3]** Quais seriam as possiblidades para uma introdução ao materialismo
 dialético? Sintese entre estas multiplas "concepções de mundo"?
 
 A resposta é não. Seus principios e bases são totalmente diferentes que seria
 difícil formar uma sintese das contradições.
 
-[2/3] O estudo não vai ser guiado por definições e/ou leis da dialética, mas
+**[2/3]** O estudo não vai ser guiado por definições e/ou leis da dialética, mas
 através da história de desenvolvimento da própria dialética em si. E
 contrastando com outras "concepções de mundo", quando necessário.
 
-[3/3] Aprender através da história ajuda a pensarmos a formação e permite
+**[3/3]** Aprender através da história ajuda a pensarmos a formação e permite
 reflexões autonomas com materialismo.
 
 As principais características do materialismo dialético, apresentadas neste
