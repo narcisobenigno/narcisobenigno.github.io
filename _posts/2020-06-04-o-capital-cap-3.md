@@ -149,8 +149,8 @@ isto é, servindo como meio.
 
 ### 3. Dinheiro
 
-**[1/203]** Recaptula o que é o dinheiro, sendo este uma mercadoria que server como
-medida de valor - meramente ideal nos preços - e meio de circulação.
+**[1/203]** Recaptula o que é o dinheiro, sendo este uma mercadoria que server
+como medida de valor - meramente ideal nos preços - e meio de circulação.
 
 A mercadoria-dinheiro só é dinheiro quando se apresenta em sua própria
 corporalidade (isto é, não é o seu signo de valor nem quando é medida de valor).
@@ -160,16 +160,46 @@ torna-o um tanto indiferente.
 
 #### c) Entesouramento
 
-**[1/203]** Colocar o entesouramento a interrupção do continuo processo antitético
-de compra e venda no fluxo do dinheiro.
+**[1/203]** O entesouramento a interrupção do continuo processo antitético de
+compra e venda - M-D-M.
 
-**[2/203]** O dinheiro deixade ser mero meio de circulação e se torna um fim em
-si mesmo, deixa de ser uma alienável em absoluto.
+**[2/203]** O dinheiro deixade ser um mero meio de circulação e se torna um fim
+em si mesmo, deixa de ser uma alienável em absoluto.
 
 **[3/204]** Fatos históricos sobre entesouramento: como nos estágios iniciais da
-circulação apenas o excedente é comercializado o ouro e prata são simbolos de
+circulação apenas o excedente é comercializado, o ouro e prata são simbolos de
 riqueza e superfluidade.
 
 Nesse nível, a produção é por subexistência, a produção é tradicional - o que
 imagino que ele quer dizer é que é bastante artesanal, sem grande industria - um
 circulo rigido de necessidades.
+
+[4/204] O surgimento da cobiça do ouro.
+
+Produção de mercadorias se desenvolvem de forma tal que os detentores de
+mercadorias precisam com que elas sejam convertidas em ouro. Compram outras
+mercadorias para alimentar mais ainda o processo produtivo, o que demanda sempre
+mais dinheiro.
+
+Sendo o dinheiro um valor de troca absoluto, o entesouramente torna-se uma
+necessidade imanente de uma sociedade na qual o processo de troca é
+generalizado.
+
+[6/205] Dinheiro apaga, na prática, qualquer diferença entre as mercadorias.
+
+O dinheiro é absolutamente opaco no que tenha feito esse chegar até onde chegou.
+Por ser esta mercadoria absolutamente alienável, quem a detem detem um poder, e
+neste caso, um poder que é privado.
+
+O Marx vai além, mostrando como o dinheiro passa a ser a pura manifestação de
+poder, usa para isso literatura e tudo mais.
+
+[7/206] Sendo o impulso por entesouramente é desmedido, o entensourador precisa
+arrumar formas de acumulo cada vez maiores.
+
+A mercadoria tem seu valor, por isso, ela não consegue simplesmente atrair mais
+ou menos dinheiro - a não ser por variações no seu valor ou no valor do
+dinheiro.
+
+Por isso, o entesourador precisa voltar ao processo produtivo. O processo
+produtivo garante que se produza mais valora agregado as mercadorias.
