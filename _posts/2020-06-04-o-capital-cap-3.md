@@ -88,13 +88,13 @@ propriedade, por assim dizer, "brota".
 **[1/198]** Moeda é o resultado do uso do dinheiro como meio de circulação.
 
 A fração de ouro, expresso no preço da mercadoria, tem que se apresentar perante
-a algo de mesmo nome. A moéda é expressão nacional do ouro, de forma que esta é
+a algo de mesmo nome. A moeda é expressão nacional do ouro, de forma que esta é
 definida como padrão de preço e impressa pelo estado na qual se situa.
 
 **[2/198]** Desgaste da moeda durante a circulação faz com que o valor nominal da
 moeda deixe de ser o valor de fato desta.
 
-Por isso, era necessário definir um nível aceitável de desgaste de uma moéda,
+Por isso, era necessário definir um nível aceitável de desgaste de uma moeda,
 antes que esta saia de circulação.
 
 **[3/199]** O descolamento do valor formal do valor real do metal ouro, permite a
@@ -105,14 +105,14 @@ seja substituido completamente na cirtulação.
 
 Ora, seria isso que permite a gente, inclusíve, trocar por papel?
 
-**[4/200]** Valor da moéda se descola totalmente de sua substância de valor,
+**[4/200]** Valor da moeda se descola totalmente de sua substância de valor,
 dado que um maior desgate é permitido. Inclusive, agora podemos usar papel.
 
-uma coisa que não fica muito bem resolvida, é que quando era moéda metálica,
+uma coisa que não fica muito bem resolvida, é que quando era moeda metálica,
 ouro e seu valor divisionário entravam juntos no mercado. E agora com o papel
 moeda. Só consigo assumir que sim.
 
-**[5/200]** Reforço de papel moéda sendo algo compulsório e controlado pelo o
+**[5/200]** Reforço de papel moeda sendo algo compulsório e controlado pelo o
 Estado.
 
 Uma observação de que o dinheiro creditício que, assim como o papel moeda, era
