@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Observações e glosas a cerca de capital"
-date:   2020-12-30 23:20:33 +1000
-last_update:   2020-12-30 23:20:33 +1000
+date:   2020-12-30 23:20:33 +1100
+last_update:   2020-12-30 23:20:33 +1100
 comments: true
 categories: capital
 ---
