@@ -4,7 +4,7 @@ title:  "O Capital: Dinheiro"
 date:   2020-06-04 00:00:33 +1000
 last_update:   2020-06-04 00:00:33 +1000
 comments: true
-categories: learning
+categories: capital
 ---
 
 # O Capital: A mercadoria
@@ -174,7 +174,7 @@ Nesse nível, a produção é por subexistência, a produção é tradicional - 
 imagino que ele quer dizer é que é bastante artesanal, sem grande industria - um
 circulo rigido de necessidades.
 
-[4/204] O surgimento da cobiça do ouro.
+**[4/204]** O surgimento da cobiça do ouro.
 
 Produção de mercadorias se desenvolvem de forma tal que os detentores de
 mercadorias precisam com que elas sejam convertidas em ouro. Compram outras
@@ -185,7 +185,7 @@ Sendo o dinheiro um valor de troca absoluto, o entesouramente torna-se uma
 necessidade imanente de uma sociedade na qual o processo de troca é
 generalizado.
 
-[6/205] Dinheiro apaga, na prática, qualquer diferença entre as mercadorias.
+**[6/205]** Dinheiro apaga, na prática, qualquer diferença entre as mercadorias.
 
 O dinheiro é absolutamente opaco no que tenha feito esse chegar até onde chegou.
 Por ser esta mercadoria absolutamente alienável, quem a detem detem um poder, e
@@ -194,12 +194,14 @@ neste caso, um poder que é privado.
 O Marx vai além, mostrando como o dinheiro passa a ser a pura manifestação de
 poder, usa para isso literatura e tudo mais.
 
-[7/206] Sendo o impulso por entesouramente é desmedido, o entensourador precisa
-arrumar formas de acumulo cada vez maiores.
+**[7/206]** Sendo o impulso por entesouramente é desmedido, o entensourador
+precisa arrumar formas de acumulo cada vez maiores.
 
 A mercadoria tem seu valor, por isso, ela não consegue simplesmente atrair mais
 ou menos dinheiro - a não ser por variações no seu valor ou no valor do
 dinheiro.
 
 Por isso, o entesourador precisa voltar ao processo produtivo. O processo
-produtivo garante que se produza mais valora agregado as mercadorias.
+produtivo garante que se produza mais valor, o qual esse entesoura novamente em
+volumes cada vez maiores.
+

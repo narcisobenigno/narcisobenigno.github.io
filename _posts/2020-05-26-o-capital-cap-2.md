@@ -4,7 +4,7 @@ title:  "O Capital: O processo de troca"
 date:   2020-05-26 22:10:33 +1000
 last_update:   2020-05-26 23:00:33 +1000
 comments: true
-categories: learning
+categories: capital
 ---
 
 # O Capital: A mercadoria
