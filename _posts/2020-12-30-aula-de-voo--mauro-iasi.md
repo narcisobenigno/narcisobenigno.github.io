@@ -7,8 +7,6 @@ comments: true
 categories: poema
 ---
 
-## AULA DE VOO
-
 O conhecimento\
 caminha lento feito lagarta.\
 Primeiro não sabe que sabe\
