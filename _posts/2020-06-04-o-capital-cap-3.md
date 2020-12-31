@@ -2,7 +2,7 @@
 layout: post
 title:  "O Capital: Dinheiro"
 date:   2020-06-04 00:00:33 +1000
-last_update:   2020-06-04 00:00:33 +1000
+last_update:   2020-12-30 23:30:33 +1100
 comments: true
 categories: capital
 ---
@@ -158,7 +158,7 @@ Por outro lado, quando o dinheiro realiza sua função, nos fixamos apenas no se
 valor de troca. Sendo o dinheiro na sua corporalidade ou através do seu signo
 torna-o um tanto indiferente.
 
-#### c) Entesouramento
+#### a) Entesouramento
 
 **[1/203]** O entesouramento a interrupção do continuo processo antitético de
 compra e venda - M-D-M.
@@ -205,3 +205,43 @@ Por isso, o entesourador precisa voltar ao processo produtivo. O processo
 produtivo garante que se produza mais valor, o qual esse entesoura novamente em
 volumes cada vez maiores.
 
+**[8/206]** Só se tira de ouro do processo de circulação, aquilo que o vendedor põe
+no mercado como mercadoria. Evidentemente, o vendedor tem que comprar menos do
+que vende para entesourar.
+
+**[9/207]** O ouro e prata agora passam a constituir mercadorias. Aqui a questão é
+estética mesmo, ser e parecer rico é algo que se mostra como consequência nesta
+sociedade.
+
+Interessante notar aqui o Marx colocando as garrinhas sobre questões estéticas
+aqui. Hoje podemos notar não o ouro, mas carros bizarros de caro, mansões e etc
+que são completamente inúteis, mas que dão esta dimensão da riquesa da
+burguesia.
+
+**[10/207]** Funções do entesouramento: controle da quantidade de dinheiro na
+circulação.
+
+Com as variações que acontecem na circulação de mercadorias, aumento ou
+diminuição de preços por mortivos que já discutimos no capitulo 3, o ouro ou a
+prata precisa entrar e sair de circulação. Um pais sempre precisa ter mais do
+que a circulação monetária precisava - dado que não usamos mais padrão ouro
+
+#### b) Meio de pagamento
+
+**[1/208]** Ao contrário da circulação simples, como vimos até agora, onde a troca
+de valores identicos acontecem ao mesmo tempo, o dinheiro como meio de pagamento
+acontece quando existe um descolamento de tempo entre o momento em que a
+mercadoria é alienada até que a completa realização do seu preço.
+
+Se entendi a primeira parte, ele tanto está falando da reserva de uma mercadoria
+que sequer foi produzida ainda, quanto, esta acho que entendi um pouco melhor,
+do recebimento de uma mercadoria antes de ser paga completamente, como quando
+compramos uma casa e o vendedor ser torna um credor e o comprador um devedor.
+
+O uso de dinheiro nessas cituações o Marx chama de meio de pagamento.
+
+**[2/208]** O papel de credor e devedor é um desdobramento da circulação simples de
+mercadoria, agora sobre nova forma, revela uma desigualdade na forma monetária.
+Diferentemente de outros momentos históricos onde relações deste tipo se
+revelavam quando o devedor ou perdia seu poder politico ou escravisação do
+plebeu.
