@@ -7,8 +7,6 @@ comments: true
 categories: capital
 ---
 
-# O Capital: A mercadoria
-
 ## Livro utilizado
 
 O capital: crítica da economia politica
