@@ -203,13 +203,13 @@ Por isso, o entesourador precisa voltar ao processo produtivo. O processo
 produtivo garante que se produza mais valor, o qual esse entesoura novamente em
 volumes cada vez maiores.
 
-**[8/206]** Só se tira de ouro do processo de circulação, aquilo que o vendedor põe
-no mercado como mercadoria. Evidentemente, o vendedor tem que comprar menos do
-que vende para entesourar.
+**[8/206]** Só se tira de ouro do processo de circulação, aquilo que o vendedor
+põe no mercado como mercadoria. Evidentemente, o vendedor tem que comprar menos
+do que vende para entesourar.
 
-**[9/207]** O ouro e prata agora passam a constituir mercadorias. Aqui a questão é
-estética mesmo, ser e parecer rico é algo que se mostra como consequência nesta
-sociedade.
+**[9/207]** O ouro e prata agora passam a constituir mercadorias. Aqui a questão
+é estética mesmo, ser e parecer rico é algo que se mostra como consequência
+nesta sociedade.
 
 Interessante notar aqui o Marx colocando as garrinhas sobre questões estéticas
 aqui. Hoje podemos notar não o ouro, mas carros bizarros de caro, mansões e etc
@@ -226,28 +226,35 @@ que a circulação monetária precisava - dado que não usamos mais padrão ouro
 
 #### b) Meio de pagamento
 
-**[1/208]** Ao contrário da circulação simples, como vimos até agora, onde a troca
-de valores identicos acontecem ao mesmo tempo, o dinheiro como meio de pagamento
-acontece quando existe um descolamento de tempo entre o momento em que a
-mercadoria é alienada até que a completa realização do seu preço.
+**[1/208]** Ao contrário da circulação simples, como vimos até agora, onde a
+troca de valores identicos acontecem ao mesmo tempo, o dinheiro como meio de
+pagamento acontece quando existe um descolamento de tempo entre o momento em que
+a mercadoria é alienada até que a completa realização do seu preço.
 
 Se entendi a primeira parte, ele tanto está falando da reserva de uma mercadoria
 que sequer foi produzida ainda, quanto, esta acho que entendi um pouco melhor,
 do recebimento de uma mercadoria antes de ser paga completamente, como quando
-compramos uma casa e o vendedor ser torna um credor e o comprador um devedor.
+  compramos uma casa e o vendedor ser torna um credor e o comprador um devedor.
 
 O uso de dinheiro nessas cituações o Marx chama de meio de pagamento.
 
-**[2/208]** O papel de credor e devedor é um desdobramento da circulação simples de
-mercadoria, agora sobre nova forma, revela uma desigualdade na forma monetária.
-Diferentemente de outros momentos históricos onde relações deste tipo se
-revelavam quando o devedor ou perdia seu poder politico ou escravisação do
-plebeu.
+**[2/208]** O papel de credor e devedor é um desdobramento da circulação simples
+de mercadoria, agora sobre nova forma, revela uma desigualdade na forma
+monetária.  Diferentemente de outros momentos históricos onde relações deste
+tipo se revelavam quando o devedor ou perdia seu poder politico ou escravisação
+do plebeu.
 
-[3/209] O dinheiro, agora como meio de pagamento, finaliza o processo depois de
-um prazo estabelecido, isto é, não é mais o mediador do processo de compra. Este
-serviu apenas como forma de medida do valor da mercadoria.
+**[3/209]** O dinheiro, agora como meio de pagamento, finaliza o processo depois
+de um prazo estabelecido, isto é, não é mais o mediador do processo de compra.
+Este serviu apenas como forma de medida do valor da mercadoria.
 
-O dinheiro de entesoura logo após a troca da mercadoria, já que este fica
+O dinheiro é entesourado logo após a troca da mercadoria, já que este fica
 interrompido com a remoção da mercadoria da circulação, sem necessariamente o
 vendedor ter recebido o dinheiro, ainda.
+
+**[4/209]** Em termos da forma M-D-M, a segunda parte, D-M se realiza mais de uma
+vez sem que a primeira parte, M-D, tenha sido concluida de vendas anteriores.
+Converte-se em valor de uso, a troco de titulo de direito privado o que garante
+a obtenção do dinheiro futuramente.
+
+**[5/210]** RE-LER!
