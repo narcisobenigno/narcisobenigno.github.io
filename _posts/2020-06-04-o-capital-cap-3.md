@@ -243,3 +243,11 @@ mercadoria, agora sobre nova forma, revela uma desigualdade na forma monetária.
 Diferentemente de outros momentos históricos onde relações deste tipo se
 revelavam quando o devedor ou perdia seu poder politico ou escravisação do
 plebeu.
+
+[3/209] O dinheiro, agora como meio de pagamento, finaliza o processo depois de
+um prazo estabelecido, isto é, não é mais o mediador do processo de compra. Este
+serviu apenas como forma de medida do valor da mercadoria.
+
+O dinheiro de entesoura logo após a troca da mercadoria, já que este fica
+interrompido com a remoção da mercadoria da circulação, sem necessariamente o
+vendedor ter recebido o dinheiro, ainda.
