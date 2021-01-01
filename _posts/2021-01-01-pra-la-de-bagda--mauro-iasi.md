@@ -19,14 +19,15 @@ e o tempo\
 não saem com a água.
 
 O café desce grosso\
-e os primeiros cadáveres se espalham.
+e os primeiros cadáveres se espalham.\
 Um míssil intercepta o açucareiro\
 enquanto olho para a monotonia\
 de uma manhã quente.
 
 Minha perna é arrancada\
-pela parede que cai sob o impacto da explosão\
-entre a fumaça e os gases:
+pela parede que cai sob o impacto da\
+explosão\
+entre a fumaça e os gases:\
 eu mudo de canal.
 
 Um pássaro negro agoniza\
@@ -41,11 +42,11 @@ manchariam de sangue\
 todo o carpete.
 
 Os mísseis são como fogos de artifício\
-que vi na noite do ano novo.
+que vi na noite do ano novo.\
 Já os cadáveres se parecem muito\
 com aqueles dos anos que já foram.
 
-A TV burra transmite a morte ao vivo.
+A TV burra transmite a morte ao vivo.\
 A imprensa foi registrar a\
 tragédia da guerra\
 e a guerra registrou a tragédia\
@@ -53,15 +54,15 @@ da imprensa.
 
 O homem que morreu de enfarte\
 se acalma ao saber que o míssil\
-não trazia armas químicas.
+não trazia armas químicas.\
 As escolas de Israel não tiveram aula\
 e as de Bagdá não têm mais paredes.
 
 Retiro minha máscara de gás\
-para respirar um pouco de veneno.
+para respirar um pouco de veneno.\
 Por que a morte química é\
 mais reprovável\
-que a morte por explosão?
+que a morte por explosão?\
 Aquela paralisa e retorce o corpo\
 que a outra explode.
 
