@@ -34,3 +34,37 @@ uma nuvem negra viaja\
 uma chuva negra nos cobre\
 um mar negro reflete, morto,\
 seu palpite sobre o futuro.
+
+Tento ir até o quarto\
+mas os intestinos expostos\
+manchariam de sangue\
+todo o carpete.
+
+Os mísseis são como fogos de artifício\
+que vi na noite do ano novo.
+Já os cadáveres se parecem muito\
+com aqueles dos anos que já foram.
+
+A TV burra transmite a morte ao vivo.
+A imprensa foi registrar a\
+tragédia da guerra\
+e a guerra registrou a tragédia\
+da imprensa.
+
+O homem que morreu de enfarte\
+se acalma ao saber que o míssil\
+não trazia armas químicas.
+As escolas de Israel não tiveram aula\
+e as de Bagdá não têm mais paredes.
+
+Retiro minha máscara de gás\
+para respirar um pouco de veneno.
+Por que a morte química é\
+mais reprovável\
+que a morte por explosão?
+Aquela paralisa e retorce o corpo\
+que a outra explode.
+
+/..
+
+IASI, Mauro. Meta amor fases.
