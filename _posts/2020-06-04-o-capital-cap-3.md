@@ -257,4 +257,38 @@ vez sem que a primeira parte, M-D, tenha sido concluida de vendas anteriores.
 Converte-se em valor de uso, a troco de titulo de direito privado o que garante
 a obtenção do dinheiro futuramente.
 
-**[5/210]** RE-LER!
+**[5/210]** Parece um paragrafo meio difuso, mas está tratando do curso do
+dinheiro como meio de pagamento e constrastando com a relação que emerge no meio
+de circulação.
+
+No dinheiro como meio de circulação, a relação só existe durante a troca.
+
+Já como meio de pagamento, quando há um vencimento de recebivel, o dinheiro vai
+para o credor mediante a uma relação previamente estabelecida.
+
+Também fala por alto da velocidade do dinheiro como meio de circulação, que
+depende, excencialmente, do encadeamento entre os diversos credores e devedores,
+além da distância entre os vencimentos de recebiveis.
+
+**[6/210]** Concentrar os meios de pagamento em poucas instituições, faz com que a
+necessidade de moéda seja menor.
+
+Com os pagamentos de diversas dívidas encadeadas faz com que muitas se anulem e
+sobre apenas um saldo devedor.
+
+**[7/210]** Novamente, arenoso isso aqui. Ele está levantando que a contradição, que
+emerge em crises monetária, onde o dinheiro de meio de pagamento não funciona
+como um mediador, mas aparece autonomizado do metabolismo do trabalho, isto é,
+sendo o valor de uso repassado ao devedor previamente, no momento em que
+efetivação do pagamento acontece só vemos o dinheiro.
+
+**Q:** Pq no momento de crise o dinheiro abondana a forma ideal e vira dinheiro
+vivo?
+**Q:** Esta forma "ideal" do dinheiro, não seria apenas outra forma de figura de
+dinheiro?
+
+**[8/211]** Aqui ele está adicionando mais a determinação de quantidade de dinheiro
+em um dado periodo de tempo. Antes tinhamos falado sobre a soma de preços de
+mercadoria que estão circulando em um determinado periodo, menos a quantidade de
+ciclos que um dinheiro percorre. Junta-se a isso agora, a quantidade de vencidos
+neste periodo, menos os pagamentos que so compensam um ao outro.
