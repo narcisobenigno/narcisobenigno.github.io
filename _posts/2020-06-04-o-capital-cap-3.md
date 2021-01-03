@@ -293,7 +293,7 @@ quantidade de ciclos que um dinheiro percorre. Junta-se a isso agora, a
 quantidade de vencidos neste periodo, menos os pagamentos que so compensam uns
 aos outros.
 
-[9/213] **Dinheiro creditício** surge do dinheiro como meio de pagamento, onde os
+**[9/213]** **Dinheiro creditício** surge do dinheiro como meio de pagamento, onde os
 certificados de dívidas são transferidos para outrem.
 
 Ora, mas pq esta transferência é feita?
@@ -308,7 +308,7 @@ circulação? Tipo, a maior massa deixa de ser dinheiro na maior parte das vezes
 usado nas operações comerciaisele até mostra na nota de rodapé como pouco
 dinheiro realmente é usado nas operações comerciais [nota 103/pag 213]
 
-[10/213] Ainda desenvolvendo aqui que como as trocas de riquesas aqui, são
+**[10/213]** Ainda desenvolvendo aqui que como as trocas de riquesas aqui, são
 meramente através dos produtos em si e não da moéda.
 
 Circula ainda, como em vários casos a tentativa de forçar pagamentos em dinheiro
@@ -318,13 +318,13 @@ Algo que me toquei agora, é que ele começou em diversas ocasiões o fato de co
 várias destas tretas relacionadas a meio de pagamento são regulamentadas em cada
 país, tais como prazo de pagamento, formas de pagamento de impostos, etc.
 
-[11/214] Pontua regulamentações por paises em torno de prazos de pagamento e
+**[11/214]** Pontua regulamentações por paises em torno de prazos de pagamento e
 como impostos sobre circulação de pagamentos são recolhidos.
 
 Ainda mostra que estes pagamentos de impostos e taxas não impactam
 significativamente a quantidade de dinheiro, além de problemas esparsos.
 
-[12/215] Variação de quantidade de meio de pagamento com relação à extensão dos
+**[12/215]** Variação de quantidade de meio de pagamento com relação à extensão dos
 prazos de pagamento.
 
 Marx aponta como proporçao inversa, equanto que a tradução aponta como proproção
@@ -333,6 +333,6 @@ direta à extensão do prazo de pagamento.
 Ora, mas se eu extendo, eu preciso de menos meio de pagamento agora, dado que
 extendi, não é?
 
-[13/215] O entesouramento na sociedade burguesa reduz como forma autonoma de
+**[13/215]** O entesouramento na sociedade burguesa reduz como forma autonoma de
 enriquecimento, mas aumenta na forma de fundos de reserva de meios de pagamento.
 Uma necessidade imanente ao dinheiro como meio de pagamento.
