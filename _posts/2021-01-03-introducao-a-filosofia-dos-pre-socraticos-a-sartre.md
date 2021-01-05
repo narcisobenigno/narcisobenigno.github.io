@@ -4,7 +4,7 @@ title:  "Curso: introdução a filosofia: dos pré socráticos a Sartre"
 date:   2021-01-03 22:59:33 +1100
 last_update:   2021-01-03 22:59:33 +1100
 comments: true
-categories: software
+categories: filosofia
 ---
 
 ## Apresentação do curso
