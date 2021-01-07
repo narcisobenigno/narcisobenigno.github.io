@@ -143,3 +143,28 @@ descreveu anteriormente. Porém, ele não entrava nestes ramos neste livro,
 indicando outros escritos dele mesmo aos quais tratavam destes assuntos como
 *Meditações*, *Geometria* e *tratatados*.
 
+**[14/23]** Ele aponta possíveis estudos, onde ele tería que sair dos fundamentos e
+transitar para, usando a imagem da árvore, seria os galhos, isto é, aspectos de
+quimica, zoologia, fisica, moral, etc. Porém, ele quase que manda um: fui, deu
+pra mim!
+
+NOTA: ele vai meio que o texto inteiro fazendo notas meio morais sobre a obra
+dele: ajudar a moral para um bem viver, uma coisa é melhor que a mentira, etc.
+
+**[15/23]** Demonstra algumas coisas, que apesar do limite da obra dele, ele espera
+ver como desdobramento de seus principios, como o avanço no entendimento de
+outras áreas. Ele realmente tem uma baita alto estima, entende que os principios
+que ele descreve ali são muito sólidos e quase inquestionáveis :D Chega
+inclusive a cutucar Aristoteles dizendo que de seus principios não se derivou
+nada por séculos - envidentemente ele ainda não havia sacado o que era a idade
+média para aquele pedaço do ocidente.
+
+**[16/24]** Ele pistola, dizendo que mesmo com fundamentos tão sólidos, tem umas
+almas sebósas que metem o louco e não constroem nada interessante, e que os/as
+leitoras não deveriam associar ao nome dele. Ele reclama expecialmente de um
+seguidor dele que escreveu uns livros sem grandes novidades, que são altamente
+baseados nos escritos dele.
+
+**[17/24]** Descartes tem uma certa dimensão que a obra dele pode ser algo para a
+posterioridade dele mesmo. Algumas coisa poderia demorar séculos até serem
+derivadas de seus principios de filosofia.
