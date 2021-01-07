@@ -31,11 +31,11 @@ Interessante notar que para ele não existia uma separação como fazemos hoje. 
 está falando ali de ciências médicas, artes e afins que seriam ramos dentro da
 filosofia.
 
-Ele descreve estes principios tendo que obedecer 2 condições: serem evidentes
+Ele descreve estes princípios tendo que obedecer 2 condições: serem evidentes
 e inquestionáveis por qualquer humano, e que todos os outros conhecimentos se
 derivariam destes principios.
 
-**[3/16]** Descartes entene a filosofia como algo crucial para o Estado e para os
+**[3/16]** Descartes entende a filosofia como algo crucial para o Estado e para os
 individuos.
 
 No aspecto do individuo, ele descreve algo como descobrir para além da aparência
