@@ -7,6 +7,14 @@ comments: true
 categories: filosofia
 ---
 
+## Introdução
+
+Estas glosas são parte das atividades do curso de [Introdução a filosofia: dos
+pré-socráticso a
+Sartre](https://www.udemy.com/course/introducao-a-filosofia-dos-pre-socraticos-a-sartre).
+
+## Glosas
+
 **[1/15]** Descartes aponta que curtiu a tradução, mas que ficou um pouco bolado com
 o titulo que continha "Filosofia", já que à época aparentemente filosofia não
 era algo exatamente bem visto.
